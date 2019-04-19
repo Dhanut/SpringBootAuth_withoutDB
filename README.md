@@ -1,6 +1,9 @@
 # SpringBootAuth_withoutDB
-#Remove the proerties in application.yml file 
-#Create 2 users 
+
+# Remove the proerties in application.yml file 
+
+# Create 2 users 
+
 localhost:8282/oauth/token (Basic-Auth ==== username = mobile, password = pin)=============POST
 			   (Body = formurlencoded====== grant_type = passowrd, username = Thisaru, password =Thisaru123)
 
